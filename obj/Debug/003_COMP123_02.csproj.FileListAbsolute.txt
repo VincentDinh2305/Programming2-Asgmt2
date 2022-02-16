@@ -1,0 +1,7 @@
+C:\Users\Vincent\Desktop\003_COMP123_02\obj\Debug\003_COMP123_02.csprojAssemblyReference.cache
+C:\Users\Vincent\Desktop\003_COMP123_02\obj\Debug\003_COMP123_02.csproj.CoreCompileInputs.cache
+C:\Users\Vincent\Desktop\003_COMP123_02\bin\Debug\003_COMP123_02.exe.config
+C:\Users\Vincent\Desktop\003_COMP123_02\bin\Debug\003_COMP123_02.exe
+C:\Users\Vincent\Desktop\003_COMP123_02\bin\Debug\003_COMP123_02.pdb
+C:\Users\Vincent\Desktop\003_COMP123_02\obj\Debug\003_COMP123_02.exe
+C:\Users\Vincent\Desktop\003_COMP123_02\obj\Debug\003_COMP123_02.pdb
